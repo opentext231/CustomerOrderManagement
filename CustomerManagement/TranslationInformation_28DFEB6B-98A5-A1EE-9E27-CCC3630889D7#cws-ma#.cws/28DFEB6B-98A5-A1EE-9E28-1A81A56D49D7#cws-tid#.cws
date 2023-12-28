@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="28DFEB6B-98A5-A1EE-9E28-1A81A56D89D7">
+	<DocumentID>28DFEB6B-98A5-A1EE-9E28-1A81A56D49D7</DocumentID>
+	<Name>28DFEB6B-98A5-A1EE-9E28-1A81A56D49D7</Name>
+	<Description>Street2</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2023-11-01T10:22:11.903</CreationDate>
+	<Notes/>
+	<DefaultText>Street2</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="28DFEB6B-98A5-A1EE-9E27-CCC3630809D7"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="28DFEB6B-98A5-A1EE-9E28-1A81A56DC9D7"
+		/>
+	</Translations>
+</TextIdentifier>

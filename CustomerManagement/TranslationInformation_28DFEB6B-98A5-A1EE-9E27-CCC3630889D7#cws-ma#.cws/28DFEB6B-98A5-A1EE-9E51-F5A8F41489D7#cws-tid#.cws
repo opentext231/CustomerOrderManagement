@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="28DFEB6B-98A5-A1EE-9E51-F5A8F414C9D7">
+	<DocumentID>28DFEB6B-98A5-A1EE-9E51-F5A8F41489D7</DocumentID>
+	<Name>28DFEB6B-98A5-A1EE-9E51-F5A8F41489D7</Name>
+	<Description>yggygy</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2023-11-02T06:21:07.58</CreationDate>
+	<Notes/>
+	<DefaultText>yggygy</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="28DFEB6B-98A5-A1EE-9E27-CCC3630809D7"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="28DFEB6B-98A5-A1EE-9E51-F5A8F41509D7"
+		/>
+	</Translations>
+</TextIdentifier>

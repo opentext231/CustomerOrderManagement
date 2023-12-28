@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="28DFEB6B-98A5-A1EE-A7BC-6640BB23C9E2">
+	<DocumentID>28DFEB6B-98A5-A1EE-A7BC-6640BB2389E2</DocumentID>
+	<Name>28DFEB6B-98A5-A1EE-A7BC-6640BB2389E2</Name>
+	<Description>EmailAddress is Invalid</Description>
+	<CreatedBy>ouathuser1@AWP</CreatedBy>
+	<CreationDate>2023-12-20T04:55:39.068</CreationDate>
+	<Notes/>
+	<Text>EmailAddress is Invalid</Text>
+	<Language>
+		<uri
+			id="28DFEB6B-98A5-A1EE-9E27-CCC3630909D7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="28DFEB6B-98A5-A1EE-A7BC-6640BB2309E2"
+		/>
+	</TextIdentifier>
+</TranslatedText>
